@@ -12,7 +12,7 @@ public class App {
         float flotante = scanner.nextFloat();
 
         System.out.print("Ingrese un caracter: ");
-        char caracter = scanner.next().charAt(0);
+        char caracter = scanner.next().charAt(0);  //Lee el primer caracter ingresado
 
         // Consumir el Enter pendiente
         scanner.nextLine();
