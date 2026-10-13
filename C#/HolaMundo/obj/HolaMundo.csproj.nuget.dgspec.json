@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2315/C#/HolaMundo/HolaMundo.csproj": {}
+    "/Users/karina/Documents/GitHub/comp2315-202710/C#/HolaMundo/HolaMundo.csproj": {}
   },
   "projects": {
-    "/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2315/C#/HolaMundo/HolaMundo.csproj": {
+    "/Users/karina/Documents/GitHub/comp2315-202710/C#/HolaMundo/HolaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2315/C#/HolaMundo/HolaMundo.csproj",
+        "projectUniqueName": "/Users/karina/Documents/GitHub/comp2315-202710/C#/HolaMundo/HolaMundo.csproj",
         "projectName": "HolaMundo",
-        "projectPath": "/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2315/C#/HolaMundo/HolaMundo.csproj",
+        "projectPath": "/Users/karina/Documents/GitHub/comp2315-202710/C#/HolaMundo/HolaMundo.csproj",
         "packagesPath": "/Users/karina/.nuget/packages/",
-        "outputPath": "/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2315/C#/HolaMundo/obj/",
+        "outputPath": "/Users/karina/Documents/GitHub/comp2315-202710/C#/HolaMundo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/karina/.nuget/NuGet/NuGet.Config"
