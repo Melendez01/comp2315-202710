@@ -7,9 +7,9 @@ public class App
         Scanner scanner = new Scanner(System.in);
         
         System.out.print("Introduce un número: ");
-        int n = scanner.nextInt();
+        int numero = scanner.nextInt();
         
-        if (n > 0) 
+        if (numero > 0) 
             {
         
             System.out.println("El número es positivo");
